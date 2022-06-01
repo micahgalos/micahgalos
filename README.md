@@ -1,6 +1,6 @@
 <h2>Hello, I am Micah Zenon Umpa Galos!</h2>
 
-<p>Graduated at University of California, Riverside - Class of 2021</p>
+<p>Recent Graduate from University of California, Riverside - Class of 2021</p>
 <p>B.S. in Computer Engineering</p>
 
 [![Linkedin: micahgalos](https://img.shields.io/badge/-micahgalos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micahgalos/)](https://www.linkedin.com/in/micahgalos/)
@@ -19,7 +19,7 @@ const micah = {
         },
         editors: ["VSCode", "Vim"], 
     },
-    currentStatus: "I am actively looking for Software (Dev) Engineer Positions",
+    currentStatus: "I am actively looking for Software Engineer Positions",
     favQuote: "Always be yourself, express yourself, have faith in yourself, don't go out and look for a successful personality and duplicate it"
 };
 ```

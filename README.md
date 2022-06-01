@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2>Hello, I am Micah Zenon Umpa Galos!</h2>
 
-<!--
-**micahgalos/micahgalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>B.S. in Computer Engineering Student at the University of California, Riverside</a></em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: micahgalos](https://img.shields.io/badge/-micahgalos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micahgalos/)](https://www.linkedin.com/in/micahgalos/)
+![GitHub followers](https://img.shields.io/github/followers/micahgalos?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=micahgalos.micahgalos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```c++
+const micah = {
+    pronouns: "He" | "Him",
+    code: ["C++", "Java", "C", "Python", "Verilog"],
+    interests: ["gaming", "tech", "anime", "manga"],
+    technologies: {
+        communication: ["Slack", "Discord", "Teams"],
+        productivity: {
+            boards: ["Trello", "Notion"],
+        },
+        editors: ["VSCode"],
+    },
+    currentStatus: "I am actively looking for Software (Dev) Engineer Positions",
+    quote: "Free time does not mean I am available"
+};
+```

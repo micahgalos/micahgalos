@@ -13,13 +13,19 @@ const micah = {
     code: ["C++", "Java", "C", "Python", "Verilog"],
     interests: ["gaming", "tech", "anime", "manga"],
     technologies: {
-        communication: ["Slack", "Discord", "Teams"],
+        communication: ["Slack", "Discord", "Teams", "Zoom"],
         productivity: {
             boards: ["Trello", "Notion"],
         },
-        editors: ["VSCode"],
+        editors: ["VSCode", "Vim"], 
     },
     currentStatus: "I am actively looking for Software (Dev) Engineer Positions",
     quote: "Free time does not mean I am available"
 };
 ```
+### UCR Course Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=micahgalos&repo=J2M_Compiler&show_owner=true)](https://github.com/micahgalos/J2M_Compiler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=micahgalos&repo=Remote_Shell&show_owner=true)](https://github.com/micahgalos/Remote_Shell)
+
+### Personal Projects

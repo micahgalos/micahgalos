@@ -20,7 +20,7 @@ const micah = {
         editors: ["VSCode", "Vim"], 
     },
     currentStatus: "I am actively looking for Software (Dev) Engineer Positions",
-    quote: "Free time does not mean I am available"
+    favQuote: "Always be yourself, express yourself, have faith in yourself, don't go out and look for a successful personality and duplicate it"
 };
 ```
 ### UCR Course Projects

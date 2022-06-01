@@ -1,6 +1,7 @@
 <h2>Hello, I am Micah Zenon Umpa Galos!</h2>
 
-<p><em>B.S. in Computer Engineering Student at the University of California, Riverside</a></em></p>
+<p>Graduated at University of California, Riverside - Class of 2021</p>
+<p>B.S. in Computer Engineering</p>
 
 [![Linkedin: micahgalos](https://img.shields.io/badge/-micahgalos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micahgalos/)](https://www.linkedin.com/in/micahgalos/)
 ![GitHub followers](https://img.shields.io/github/followers/micahgalos?label=Follow&style=social)

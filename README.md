@@ -11,15 +11,15 @@
 const micah = {
     pronouns: "He" | "Him",
     code: ["C++", "Java", "C", "Python", "Verilog"],
-    interests: ["gaming", "tech", "anime", "manga"],
+    interests: ["gaming", "tech", "anime", "manga", "linux"],
     technologies: {
         communication: ["Slack", "Discord", "Teams", "Zoom"],
         productivity: {
             boards: ["Trello", "Notion"],
         },
-        editors: ["VSCode", "Vim"], 
+        editors: ["VSCode", "Vim"],
     },
-    currentStatus: "I am actively looking for Software Engineer Positions",
+    currentStatus: "I am actively looking for Software Engineering Positions",
     favQuote: "Always be yourself, express yourself, have faith in yourself, don't go out and look for a successful personality and duplicate it"
 };
 ```

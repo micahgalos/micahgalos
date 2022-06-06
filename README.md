@@ -20,7 +20,8 @@ const micah = {
         editors: ["VSCode", "Vim"],
     },
     currentStatus: "I am actively looking for Software Engineering Positions",
-    favQuote: "Always be yourself, express yourself, have faith in yourself, don't go out and look for a successful personality and duplicate it"
+    favQuote: "Always be yourself, express yourself, have faith in yourself, 
+               don't go out and look for a successful personality and duplicate it --Bruce Lee"
 };
 ```
 ### UCR Course Projects
@@ -29,3 +30,18 @@ const micah = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=micahgalos&repo=Remote_Shell&show_owner=true)](https://github.com/micahgalos/Remote_Shell)
 
 ### Personal Projects
+
+
+### Textbook Resources
+[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+[Clean Code - A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+[The Pragmatic Programmer Your Journey to Mastery](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+
+[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+
+[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
+[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+

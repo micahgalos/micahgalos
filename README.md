@@ -31,8 +31,12 @@ const micah = {
 
 ### Personal Projects
 
+Work in Progress Section
 
 ### Textbook Resources
+
+These resources help me self-improve in becoming a better programmer and problem solver.
+
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 [Clean Code - A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)

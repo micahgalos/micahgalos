@@ -28,7 +28,7 @@ const micah = {
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=micahgalos&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micahgalos&layout=compact&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micahgalos&layout=compact&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true&card_width=445)
 
 ## UCR Course Projects
 

@@ -1,13 +1,12 @@
 ## Hello, I am Micah Zenon Umpa Galos!
-Recent Graduate from University of California, Riverside - Class of 2021
 
-B.S. in Computer Engineering
+A first-year generation Computer Engineering graduate from the University of California, Riverside. Driven by learning new technology and self-improvement--I value having a healthy work-life balance and working in teams who help each other grow in their career development.
 
 ```c++
 const micah = {
     pronouns: "He" | "Him",
     code: ["C++", "Java", "C", "Python", "Verilog"],
-    interests: ["gaming", "tech", "anime", "manga", "linux"],
+    interests: ["gaming", "pc tech", "anime", "manga", "linux"],
     technologies: {
         communication: ["Slack", "Discord", "Teams", "Zoom"],
         productivity: {

@@ -1,11 +1,7 @@
-<h2>Hello, I am Micah Zenon Umpa Galos!</h2>
+## Hello, I am Micah Zenon Umpa Galos!
+Recent Graduate from University of California, Riverside - Class of 2021
 
-<p>Recent Graduate from University of California, Riverside - Class of 2021</p>
-<p>B.S. in Computer Engineering</p>
-
-[![Linkedin: micahgalos](https://img.shields.io/badge/-micahgalos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micahgalos/)](https://www.linkedin.com/in/micahgalos/)
-![GitHub followers](https://img.shields.io/github/followers/micahgalos?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=micahgalos.micahgalos)
+B.S. in Computer Engineering
 
 ```c++
 const micah = {
@@ -24,16 +20,22 @@ const micah = {
                don't go out and look for a successful personality and duplicate it --Bruce Lee"
 };
 ```
-### UCR Course Projects
+
+## Links 
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micahgalos/)](https://www.linkedin.com/in/micahgalos/)
+[![GitHub](https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/micahgalos/)
+[![Website](https://img.shields.io/badge/-Website-teal?style=for-the-badge&logo=Netlify&logoColor=white)](https://micahzugalos.netlify.app/)
+
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=micahgalos&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micahgalos&layout=compact&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
+
+## UCR Course Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=micahgalos&repo=J2M_Compiler&show_owner=true)](https://github.com/micahgalos/J2M_Compiler)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=micahgalos&repo=Remote_Shell&show_owner=true)](https://github.com/micahgalos/Remote_Shell)
 
-### Personal Projects
-
-Work in Progress Section
-
-### Textbook Resources
+## Textbook Resources
 
 These resources help me self-improve in becoming a better programmer and problem solver.
 

@@ -1,6 +1,6 @@
 ## Hello, I am Micah Zenon Umpa Galos!
 
-A first-year generation Computer Engineering graduate from the University of California, Riverside. Driven by learning new technology and self-improvement--I value having a healthy work-life balance and working in teams who help each other grow in their career development.
+A first-year generation Computer Engineering graduate from the University of California, Riverside. Driven by learning new technology and self-improvement—I value having a healthy work-life balance and working in teams who help each other grow in their career development.
 
 ```c++
 const micah = {
@@ -8,11 +8,11 @@ const micah = {
     code: ["C++", "Java", "C", "Python", "Verilog"],
     interests: ["gaming", "pc tech", "anime", "manga", "linux"],
     technologies: {
-        communication: ["Slack", "Discord", "Teams", "Zoom"],
+        communication: ["Slack", "Discord", "Microsoft Teams", "Zoom"],
         productivity: {
-            boards: ["Trello", "Notion"],
+            boards: ["Notion"],
         },
-        editors: ["VSCode", "Vim"],
+        editors: ["VSCode"],
     },
     currentStatus: "I am actively looking for New Grad/Entry-Level Software Engineering Positions",
     favQuote: "Always be yourself, express yourself, have faith in yourself, 

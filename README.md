@@ -5,10 +5,10 @@ A first-year generation Computer Engineering graduate from the University of Cal
 ```c++
 const micah = {
     pronouns: "He" | "Him",
-    code: ["C++", "Java", "C", "Python", "Verilog"],
-    interests: ["gaming", "pc tech", "anime", "manga", "linux"],
+    code: ["C++", "Java", "C", "Python"],
+    interests: ["gaming", "pc tech", "anime", "manga", "linux", "rust"],
     technologies: {
-        communication: ["Slack", "Discord", "Microsoft Teams", "Zoom"],
+        communication: ["Discord", "Microsoft Teams"],
         productivity: {
             boards: ["Notion"],
         },
@@ -28,6 +28,7 @@ const micah = {
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=micahgalos&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micahgalos&layout=compact&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true&card_width=445)
+[![roadmap.sh](https://roadmap.sh/card/wide/66714609c0f2325c342095a3?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
 
 ## UCR Course Projects
 

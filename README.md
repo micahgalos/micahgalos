@@ -5,7 +5,7 @@ A first-year generation Computer Engineering graduate from the University of Cal
 ```c++
 const micah = {
     pronouns: "He" | "Him",
-    code: ["C++", "Java", "C", "Python"],
+    code: ["C++", "C", "Python"],
     interests: ["gaming", "pc tech", "anime", "manga", "linux", "rust"],
     technologies: {
         communication: ["Discord", "Microsoft Teams"],
@@ -14,7 +14,7 @@ const micah = {
         },
         editors: ["VSCode"],
     },
-    currentStatus: "I am actively looking for New Grad/Entry-Level Software Engineering Positions",
+    currentStatus: "Currently working as an Engineer",
     favQuote: "Always be yourself, express yourself, have faith in yourself, 
                don't go out and look for a successful personality and duplicate it --Bruce Lee"
 };
